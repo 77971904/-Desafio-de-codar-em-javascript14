@@ -1,6 +1,6 @@
-# Quinto projeto do desafio em codar em javascript
-
-
+# Quinto projeto do desafio em codar em javascript.
+Aplicativo de lista de tarefas (To-Do List). Ele permite adicionar, editar, excluir e filtrar tarefas (Seleção de Elementos do DOM; Inicialização de Variáveis;
+Event Listeners; Funções Auxiliares( Função showTodo; Função showMenu;  Função editTask; Função deleteTaske); Prsistência de Dados; Event Listener para o Botão "Clear All").
 
 ## Captura da tela
 Aqui a captura da tela com o projeto :
